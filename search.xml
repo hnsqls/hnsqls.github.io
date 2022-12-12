@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>代码</title>
+      <link href="/2022/12/12/%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%BB%A3%E7%A0%81/"/>
+      <url>/2022/12/12/%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%BB%A3%E7%A0%81/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    cout&lt;&lt;<span class="string">&quot;hello world!;</span></span><br><span class="line"><span class="string">&#125;</span></span><br></pre></td></tr></table></figure><h2 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h2><p>大大撒大苏打是打开拉萨解放立刻受到<br>大撒大撒大撒凯夫拉的时间法大师傅大师傅</p><h3 id="世界"><a href="#世界" class="headerlink" title="世界"></a>世界</h3><p>十大阿三巨龙大及时反馈垃圾六氟化硫时间<br>大是大非贺卡上发生DHL弗利萨的回复卢卡斯<br>大叔控DHL喀什角动量卡</p><h4 id="吗"><a href="#吗" class="headerlink" title="吗"></a>吗</h4><p>你到上奶的那是老款的难度了拿到绿卡三大块蓝色离开电脑<br>大师的来看是快乐的你拉山口as</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>dsad</title>
+      <link href="/2022/12/11/dsad/"/>
+      <url>/2022/12/11/dsad/</url>
+      
+        <content type="html"><![CDATA[<p>好好学习哈</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>haue_324帅哥</title>
+      <link href="/2022/12/11/haue-324%E5%B8%85%E5%93%A5/"/>
+      <url>/2022/12/11/haue-324%E5%B8%85%E5%93%A5/</url>
+      
+        <content type="html"><![CDATA[<h2 id="重温经典"><a href="#重温经典" class="headerlink" title="重温经典"></a>重温经典</h2><img src="E:\Blog\imags\1.jpg">]]></content>
+      
+      
+      <categories>
+          
+          <category> 娱乐 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>haue</title>
+      <link href="/2022/12/11/haue/"/>
+      <url>/2022/12/11/haue/</url>
+      
+        <content type="html"><![CDATA[<p>你好吗</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>wahah</title>
+      <link href="/2022/12/11/wahah/"/>
+      <url>/2022/12/11/wahah/</url>
+      
+        <content type="html"><![CDATA[<h3 id="haue-324"><a href="#haue-324" class="headerlink" title="haue_324"></a>haue_324</h3><p>打发撒旦吉萨领导a</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>lishuo</title>
+      <link href="/2022/12/11/lishuo/"/>
+      <url>/2022/12/11/lishuo/</url>
+      
+        <content type="html"><![CDATA[<p>河南工程学院！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/12/10/hello-world/"/>
+      <url>/2022/12/10/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
