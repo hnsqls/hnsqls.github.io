@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Acwing第78场周赛题解</title>
+      <link href="/2022/12/18/nihaosdasdsadas/"/>
+      <url>/2022/12/18/nihaosdasdsadas/</url>
+      
+        <content type="html"><![CDATA[<h3 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h3><p><a href="https://www.acwing.com/activity/content/2696/">Acwing第78场周赛</a><br>给定一个长度为 n 的整数数列 a^1, a^2, …, a^n，以及一个整数 k。<br>请你计算并输出该数列从大到小排序后的第 k 个数。</p><h4 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h4><p>第一行包含两个整数 n,k。<br>第二行包含 n 个整数 a^1^, a^2,…,a^n^。</p><h4 id="输出"><a href="#输出" class="headerlink" title="输出"></a>输出</h4><p>一个整数，表示数列<strong>从大到小</strong>排序后的第 k 个数。</p><h4 id="数据范围"><a href="#数据范围" class="headerlink" title="数据范围"></a>数据范围</h4><p>前三个测试点满足 1≤n≤10。<br>所有测试点满足 1≤n≤1000，1≤k≤n，0≤ai≤100。</p><h4 id="样例输入"><a href="#样例输入" class="headerlink" title="样例输入"></a>样例输入</h4><blockquote><p>6 5<br>90 20 35 40 60 100</p></blockquote><h4 id="样例输出"><a href="#样例输出" class="headerlink" title="样例输出"></a>样例输出</h4><blockquote><p>35</p></blockquote><hr><h3 id="c"><a href="#c" class="headerlink" title="c++"></a>c++</h3><p>快排  O(nlog(n))</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;algorithm&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="comment">// bool cmp(int a,int b)</span></span><br><span class="line"><span class="comment">// &#123;</span></span><br><span class="line"><span class="comment">//     return a &gt;b;</span></span><br><span class="line"><span class="comment">// &#125;</span></span><br><span class="line"><span class="type">int</span> a[<span class="number">1010</span>];</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">int</span> n ,k;</span><br><span class="line">    cin&gt;&gt;n&gt;&gt;k;</span><br><span class="line">    <span class="keyword">for</span>(<span class="type">int</span> i = <span class="number">1</span>;i &lt;= n; i ++) cin&gt;&gt;a[i];</span><br><span class="line">    <span class="built_in">sort</span>(a+<span class="number">1</span>,a+n+<span class="number">1</span>,<span class="built_in">greater</span>());</span><br><span class="line">    cout&lt;&lt;a[k];</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Acwing 周赛题解 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Acwing </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>代码</title>
       <link href="/2022/12/12/%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%BB%A3%E7%A0%81/"/>
       <url>/2022/12/12/%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%BB%A3%E7%A0%81/</url>
